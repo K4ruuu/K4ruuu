@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there my name is Carl Anthony L. Allera, I love to code and I am currently undertaking a Bachelor of Science in Computer Science degree.
+it has been fun so far and I really love the hard parts of the code, I am excited to work on projects and help others. 👋
 
 <!--
 **K4ruuu/K4ruuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
